@@ -1,8 +1,0 @@
-.cursor-pointer {
-    cursor: pointer;
-}
-
-.dropdown-item.active, .dropdown-item:active {
-    text-decoration: none;
-    background-color: #e9ecef;
-}
